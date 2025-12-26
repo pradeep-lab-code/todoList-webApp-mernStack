@@ -9,10 +9,10 @@ A full MERN stack To-Do application where you can add, edit, delete, and mark ta
 ![Landing page/Home page](screenshots/landing.png)
 
 ## Adding todo
-![AddingTask] (screenshots/add_todo.png)
+![AddingTask](screenshots/add_todo.png)
 
 ## Added todo
-![AddedTodo] (screenshots/added_todo.png)
+![AddedTodo](screenshots/added_todo.png)
 
 ## Editing a Task
 
