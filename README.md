@@ -6,19 +6,19 @@ A full MERN stack To-Do application where you can add, edit, delete, and mark ta
 
 ## Landing Page
 
-(screenshots/landing.png)
+![Landing page/Home page](screenshots/landing.png)
 
 
 ## Adding a Task
 
-(screenshots/add_todo.png)
+![AddingTask] (screenshots/added_todo.png)
 
 
 ## Editing a Task
 
-(screenshots/editing_todo.png)
+![EditingTask](screenshots/editing_todo.png)
 
 
 ## Marking a Task as Completed
 
-(screenshots/marked_completed.png)
+![CompletedTasks](screenshots/Marked_completed.png)
