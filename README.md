@@ -22,3 +22,7 @@ A full MERN stack To-Do application where you can add, edit, delete, and mark ta
 ## Marking a Task as Completed
 
 ![CompletedTasks](screenshots/Marked_completed.png)
+
+## Stored data in MonogoDb
+
+![storedData](screenshots/mongodb_dataStored.png)
