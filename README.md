@@ -11,7 +11,7 @@ A full MERN stack To-Do application where you can add, edit, delete, and mark ta
 
 ## Adding a Task
 
-![AddingTask] (screenshots/added_todo.png)
+![AddingTask] (C:\Pradeep\To-do-list\screenshots\added_todo.png)
 
 
 ## Editing a Task
